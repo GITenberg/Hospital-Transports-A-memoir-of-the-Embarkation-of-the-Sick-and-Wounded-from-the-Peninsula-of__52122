@@ -1,0 +1,36 @@
+_repo: Hospital-Transports-A-memoir-of-the-Embarkation-of-the-Sick-and-Wounded-from-the-Peninsula-of__52122
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Olmsted, Frederick Law
+    alias: Olmstead, Frederick Law
+    birthdate: 1822
+    deathdate: 1903
+    gutenberg_agent_id: '45460'
+    url: http://www.gutenberg.org/2009/agents/45460
+description: ''
+gutenberg_issued: '2016-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52122'
+  lccn: '10023121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hospital ships -- United States -- History -- 19th century'
+- !lcsh 'Hospital ships -- Virginia -- History -- 19th century'
+- !lcsh 'Transports -- United States -- History -- 19th century'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Medical care'
+- !lcsh 'United States Sanitary Commission'
+- !lcsh 'Transports -- Virginia -- History -- 19th century'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Hospitals'
+- !lcsh 'Peninsular Campaign, 1862'
+- !lcsh 'Medical personnel -- United States -- Correspondence'
+- GITenberg
+title: "Hospital Transports\r\nA memoir of the Embarkation of the Sick and Wounded\
+  \ from the Peninsula of Virginia in the Summer of 1862"
+url: http://www.gutenberg.org/ebooks/52122
